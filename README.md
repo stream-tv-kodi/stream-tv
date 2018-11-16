@@ -1,2 +1,0 @@
-# stream-tv
-Wizard
